@@ -1,0 +1,147 @@
+/*.itemWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+    border: 1px solid lightgray;
+    box-shadow: 1px 1px 2px lightgray;
+    border-radius: 8px;
+    margin: 0px 40px;
+}
+
+.itemWrapperOne{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.itemWrapperOneLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+
+.itemImagesLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 200px;
+    height: 200px;
+}
+
+.cover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: contain;
+}
+
+.itemWrapperOneAboutUs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%; 
+}
+
+.itemWrapperTwo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start; 
+}
+
+.itemWrapperOneAboutUs h2{
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: bold;
+    color: rgb(89,41,80);
+}
+
+.itemWrapperOneAboutUs p{
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(89,41,80);
+}
+
+.itemWrapperTwo h2{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: bold;
+    color: rgb(89,41,80);
+}
+
+.itemWrapperTwo p{
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(89,41,80);
+}
+
+.itemWrapperThree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start; 
+}
+
+.itemWrapperThree h2{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: bold;
+    color: rgb(89,41,80);
+}
+
+.itemWrapperThreeImages{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.modal_main1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width:500px
+}
+.modal_right1{
+    flex:0.7
+
+}
+.modal_left1{
+    flex:0.3;
+    width:200px;
+    
+}
+.modal-body{
+    width:500px
+}
+.modal_img{
+    height: 140px;
+    width:140px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+
+
+
+
+
+

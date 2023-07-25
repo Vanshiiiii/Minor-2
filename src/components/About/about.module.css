@@ -1,0 +1,119 @@
+.footerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #262626;
+    color: #ffffff;
+    box-shadow: 1px 1px 10px rgb(179, 179, 179);
+    padding: 20px 0px;
+   
+}
+
+.imageWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 90px;
+}
+
+.cover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 140%;
+    min-height: 140%;
+    object-fit: contain;
+}
+
+.footerWrapperOne{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 0px 30px;
+}
+.footerWrapperOneExt{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: -100px;
+    margin: 0px 10px;
+    width: 450px;
+}
+
+.footerWrapperTwo{
+    width:300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 30px;
+    margin-top: 20px;
+}
+
+.footerWrapperThree{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: auto 10px;
+    height: 100px;
+}
+
+.companyContact{
+    position:relative;
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+.companyContact h5{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.companyContact p{
+    padding: 0;
+    margin: 8px 5px;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+.footerWrapperTwo ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+}
+
+.footerWrapperTwo ul li{
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 4px 0px;
+}
+
+.footerWrapperThree button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+    margin: 8px 0px;
+    border: none;
+    outline: none;
+    width: 100px;
+    border-radius: 8px;
+    background-color: #262626;
+}
+
